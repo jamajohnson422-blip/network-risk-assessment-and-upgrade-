@@ -49,8 +49,8 @@ The project combines risk assessment with network design recommendations to demo
 
 ## Project Deliverables
 
-- International Plastics Inc. Network Assessment
-- International Plastics Inc. Network Upgrade Plan
+- [View Network Risk Assessment](International%20Plastics%20Inc.%20Assessment.docx)
+- [View Network Upgrade Plan](International%20Plastics%20Inc.%20Network%20Upgrade.docx)
 
 ## Purpose
 
